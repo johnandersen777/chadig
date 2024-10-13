@@ -46,4 +46,4 @@ The following are my instance of Alice's values.
 ## Stratigic Plans and Principles
 
 - Defer to trusted human methodoligy oracles
-- Ideal per entity federation is between 4 and 33 wittnesses
+- Ideal per entity federation is between 4 and 33 KERI wittnesses
