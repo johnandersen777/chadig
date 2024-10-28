@@ -1,4 +1,4 @@
-# The Case For Decentralized Governance: Towards Transparent Representation
+# Towards Transparent Representation
 
 This is a call for you to transparently please think on and write your own values and strategic plans and principles.
 
